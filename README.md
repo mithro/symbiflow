@@ -1,7 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [mithro/symbiflow-website v0.0-16-g3a637e8](https://github.com/mithro/symbiflow-website/commit/3a637e82c9de84ffdcc038103d582f80f5e786a6)
+Built from [mithro/symbiflow-website v0.0-16-g1431e78](https://github.com/mithro/symbiflow-website/commit/1431e780850c1664e1f1fea60865bc1c86a381df)
 
 # Commit Message
 
 Update the status table.
+
+Signed-off-by: Tim 'mithro' Ansell <me@mith.ro>

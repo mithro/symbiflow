@@ -1,8 +1,8 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from https://github.com/mithro/symbiflow.github.io/commit/1f785dab70389861c7548e2919cd7a8d92a6cc0a
+Built from [mithro/symbiflow.github.io v0.0-14-g31adf5d](https://github.com/mithro/symbiflow.github.io/commit/c8a407d79b70e34b4582b1a70688ba20b05a0625)
 
-# Commit v0.0-13-g734a7e7
+# Commit Message
 
 Rework travis push.
 

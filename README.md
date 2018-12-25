@@ -1,6 +1,6 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [mithro/symbiflow-website v0.0-16-g1431e78](https://github.com/mithro/symbiflow-website/commit/1431e780850c1664e1f1fea60865bc1c86a381df)
+Built from [mithro/symbiflow-website v0.0-16-g688f02f](https://github.com/mithro/symbiflow-website/commit/688f02fbce7a59113c91bd81037481cf1f2f32d0)
 
 # Commit Message
 
